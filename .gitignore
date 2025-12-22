@@ -1,0 +1,25 @@
+# Python cache
+_pycache_/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Images / datasets
+images/
+dataset/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore everything inside Trained_model EXCEPT .h5
+Trained_model/*
+!Trained_model/*.h5
