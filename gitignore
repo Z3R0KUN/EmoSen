@@ -1,0 +1,18 @@
+# Python cache
+_pycache_/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Data (not uploaded)
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
