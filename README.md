@@ -16,3 +16,5 @@ and facial emotion recognition using a trained neural network model.
 - OpenCV
 - NumPy
 - NLP (custom text pipeline)
+
+## Project Structure
